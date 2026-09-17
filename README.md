@@ -1,208 +1,80 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Jyotsna Kapoor</h1>
+<h3 align="center">AI/ML Enthusiast | GenAI & RAG Developer | Building with LLMs, LangChain & LangGraph</h3>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=220&section=header&text=Jyotsna%20Kapoor&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20GenAI%20%26%20RAG%20Developer&descAlignY=58&descSize=20)
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+apps+with+LLMs+%26+RAG;Designing+scalable+AI+agents+with+LangGraph" alt="Typing SVG" />
-</a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jyotsnakapoor123&color=A78BFA&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/jyotsnakapoor123?label=Followers&style=flat-square&color=A78BFA)
-
-</div>
-
----
-
-### 🔗 Connect With Me
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://linkedin.com/in/jyotsnakapoor" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/jyotsnakapoor123" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="mailto:jyotsnakapoor464@gmail.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://instagram.com/_jyotsnakapoor" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55" alt="Instagram"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <!-- Replace # with your Discord invite link -->
-      <a href="#" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="55" height="55" alt="Discord"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <!-- Replace # with your portfolio URL -->
-      <a href="#" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <!-- Replace # with your Kaggle URL -->
-      <a href="#" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55" alt="Kaggle"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <!-- Replace # with your resume link -->
-      <a href="#" target="_blank">
-        <img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://linkedin.com/in/jyotsnakapoor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jyotsnakapoor464@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/_jyotsnakapoor" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
-### 🧠 Tech Stack
+### 🚀 About Me
 
-**GenAI / LLMs**
+- 🔭 Currently building **AI-powered applications** with LLMs, RAG, LangChain & LangGraph
+- 👯 Looking to collaborate on **AI/ML, Data Science & Generative AI** projects
+- 🌱 Currently deepening my skills in **LLM Engineering, AI Agents & scalable RAG systems**
+- 💬 Ask me about **Python, SQL, Data Analytics, RAG, LangChain & Power BI**
+- 🤝 Always open to learning, collaborating and building something meaningful
+- ⚡ Fun fact: I enjoy turning messy real-world data into useful insights and intelligent applications
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55" alt="LangChain"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/191919" width="55" height="55" alt="Claude"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55" alt="Ollama"/></td>
-  </tr>
-</table>
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" height="55" alt="Dart"/></td>
-  </tr>
-</table>
+**AI / Data Science**
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+</p>
 
-**AI & ML**
+**GenAI / LLMs**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/RAG-8E75B2?style=flat-square" alt="RAG"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/keras/D00000" width="55" height="55" alt="Keras"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/></td>
-  </tr>
-</table>
-
-**Data Science**
-
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"/></td>
-  </tr>
-</table>
-
-**Web & App Dev**
-
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55" alt="Streamlit"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/fastapi/009688" width="55" height="55" alt="FastAPI"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="TailwindCSS"/></td>
-  </tr>
-</table>
-
-**Cloud & Infra**
-
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55" alt="AWS"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="Azure"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firebase"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/></td>
-  </tr>
-</table>
+**Tools & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
 
 **Databases**
-
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"/></td>
-  </tr>
-</table>
-
-**Dev Tools**
-
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma"/></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jyotsnakapoor123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=A78BFA" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsnakapoor123&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&langs_count=8" width="42%" />
-
-<img src="https://streak-stats.demolab.com/?user=jyotsnakapoor123&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%" />
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotsnakapoor123&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</div>
-
----
-
-<div align="center">
-
-> *"The best way to predict the future is to build it."*
-
-```
-
-  ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
-  ██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
-  ██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
-  ██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
-  ██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
-  ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-
-        Turning ideas into intelligent, working systems.
-```
-
-</div>
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=120&section=footer)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotsnakapoor123&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsnakapoor123&layout=compact&theme=default&hide_border=true" width="38%" />
+</p>
